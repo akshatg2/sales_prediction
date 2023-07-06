@@ -1,3 +1,35 @@
+RNN_LSTM
+This is a Jupyter notebook that uses a recurrent neural network (RNN) with long short-term memory (LSTM) cells to predict sales. The data used for the prediction is the daily sales of a retail store for the past year.
+
+The notebook is divided into the following sections:
+
+Importing the libraries and data
+Preparing the data
+Building the RNN model
+Training the model
+Predicting sales
+Evaluating the model
+The notebook also includes a section on how to run the code.
+
+Requirements
+Python 3.6+
+NumPy
+Pandas
+Keras
+Tensorflow
+Usage
+To run the code, you will need to install the required libraries. Once you have installed the libraries, you can run the notebook by opening it in a Jupyter notebook environment.
+
+Contributing
+Contributions are welcome. Please open an issue or a pull request if you have any suggestions or improvements.
+
+License
+This project is licensed under the MIT License.
+
+I hope this is helpful! Let me know if you have any other questions.
+
+
+
 # Conda environment with environment.yml
 
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb)
